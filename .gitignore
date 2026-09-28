@@ -8,3 +8,5 @@ desktop.ini
 # 临时文件
 *.tmp
 *.bak
+# 同步日志（由 .sync-daily.ps1 生成，不进仓库）
+.sync.log
