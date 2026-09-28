@@ -1,0 +1,10 @@
+# Windows / 编辑器噪声
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp
+*~
+
+# 临时文件
+*.tmp
+*.bak
