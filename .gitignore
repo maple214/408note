@@ -8,5 +8,8 @@ desktop.ini
 # 临时文件
 *.tmp
 *.bak
+# 第三方真题/答案 PDF（出版社或题库的扫描件，仅本地参考，不推送到公开仓库）
+# 若某个 PDF 确实需要入库，用 git add -f <文件> 强制添加
+*.pdf
 # 同步日志（由 .sync-daily.ps1 生成，不进仓库）
 .sync.log
